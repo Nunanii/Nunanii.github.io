@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/i.am.nunana/">
   <img align="left" alt="Nunana's insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-<a href="https://github.com/AjayKhalsa">
+<a href="https://github.com/Nunanii">
   <img align="left" alt="Nunana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
