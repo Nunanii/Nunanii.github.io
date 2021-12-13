@@ -16,7 +16,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### I am Dorvi Ignatus Nunana
 - An ML, Deep learning & bioinformatics enthusiast.
