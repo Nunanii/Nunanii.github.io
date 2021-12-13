@@ -19,7 +19,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### I am Dorvi Ignatus Nunana
-- An ML, Deep learning & bioinformatics enthusiast.
+- I am a ML, Deep learning & bioinformatics enthusiast.
 - A Biomedical Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Deep learning and Machine Learning.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
