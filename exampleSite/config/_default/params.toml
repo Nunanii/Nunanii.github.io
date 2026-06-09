@@ -1,0 +1,100 @@
+# SITE SETUP
+
+# marketing
+microsoft_clarity = ""
+
+# Color theme.
+color_theme = "default"
+# Enable users to switch between day and night mode?
+day_night = true
+
+# Font style.
+font = "classic"
+
+# Description for social sharing and search engines.
+description = "Research Scientist specializing in malaria drug resistance, molecular surveillance, and computational biology at WACCBIP, University of Ghana."
+
+# Default image for social sharing and search engines.
+sharing_image = ""
+
+# Twitter username (without @).
+twitter = ""
+
+# Display a logo in navigation bar rather than title (optional).
+logo = ""
+
+# Enable global source code highlighting? true/false
+highlight = true
+
+# Enable global LaTeX math rendering?
+math = false
+
+# Privacy pack
+privacy_pack = false
+
+# Date and time format
+date_format = "Jan 2, 2006"
+time_format = "3:04 PM"
+
+############################
+##  Contact Widget setup  ##
+############################
+
+email = "dorvinunana99@gmail.com"
+phone = ""
+address = "West African Centre for Cell Biology of Infectious Pathogens (WACCBIP), University of Ghana, Legon, Accra, Ghana"
+
+# Office hours
+office_hours = ""
+
+# Appointment URL
+appointment_url = ""
+
+# Contact links
+contact_links = [
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/Nunanii"},
+  {icon = "graduation-cap", icon_pack = "fas", name = "Google Scholar", link = "https://scholar.google.com/citations?user=QrPR8TIAAAAJ&hl=en"},
+  ]
+
+# Display a map.
+map = 0
+map_api_key = ""
+latitude = "5.6502"
+longitude = "-0.1962"
+zoom = 15
+
+############################
+## Plugins                ##
+############################
+
+plugins_css = ["custom"]
+plugins_js  = []
+
+############################
+## Advanced options       ##
+############################
+
+gravatar = false
+menu_align_right = true
+reading_time = true
+comment_count = true
+section_pager = false
+docs_section_pager = true
+sharing = true
+
+[publications]
+  date_format = "January 2006"
+  citation_style = "apa"
+
+[projects]
+  post_view = 3
+  publication_view = 3
+  talk_view = 2
+
+[search]
+  engine = 0
+  [search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false

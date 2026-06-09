@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:scholar.google.com)",
+      "Bash(Remove-Item -Recurse -Force \"C:\\\\Users\\\\mmsgh\\\\Downloads\\\\Profile\\\\profile\\\\exampleSite\\\\content\\\\publication\\\\conference-paper\" \"C:\\\\Users\\\\mmsgh\\\\Downloads\\\\Profile\\\\profile\\\\exampleSite\\\\content\\\\publication\\\\journal-article\" \"C:\\\\Users\\\\mmsgh\\\\Downloads\\\\Profile\\\\profile\\\\exampleSite\\\\content\\\\publication\\\\preprint\" -ErrorAction SilentlyContinue)",
+      "Bash(Write-Host \"Done\")"
+    ]
+  }
+}
