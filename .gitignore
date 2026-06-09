@@ -1,3 +1,12 @@
+# Hugo binary and archives
+hugo
+hugo_extended*
+*.tar.gz
+LICENSE
+exampleSite/LICENSE
+exampleSite/README.md
+exampleSite/themes/
+
 # IDE specific
 .idea/
 
