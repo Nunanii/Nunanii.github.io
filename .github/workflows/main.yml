@@ -29,8 +29,11 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
+      - name: Link theme
+        run: mkdir -p exampleSite/themes && ln -s $GITHUB_WORKSPACE exampleSite/themes/academia-hugo
+
       - name: Build site
-        run: npm run build:example
+        run: cd exampleSite && hugo --gc --minify --buildDrafts --buildExpired --buildFuture --forceSyncStatic
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
